@@ -1,0 +1,31 @@
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.exe.config
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.exe
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.pdb
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\oop_pr3_vector_graphic.Properties.Resources.resources
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.exe
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.pdb
+C:\Users\user\Documents\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.Form1.resources
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.exe.config
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.exe
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.pdb
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.Form1.resources
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop_pr3_vector_graphic.Properties.Resources.resources
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.exe
+C:\Users\user\Documents\коледж\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.pdb
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.exe.config
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.exe
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\bin\Debug\oop-pr3-vector_graphic.pdb
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.exe.config
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.Form1.resources
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop_pr3_vector_graphic.Properties.Resources.resources
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.exe
+C:\Users\user\Documents\коледж\інж програмного забезпечення\практика3\Figure\oop-pr3-vector_graphic\obj\Debug\oop-pr3-vector_graphic.pdb
