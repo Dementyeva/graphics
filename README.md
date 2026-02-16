@@ -38,3 +38,5 @@ All figures combined
 -Load figures from a binary file
 -Clear all figures from the form
 
+![Game Screenshot](image.png)
+
